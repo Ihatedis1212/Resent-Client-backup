@@ -1,5 +1,5 @@
-Resent Client 4.0
-
-Netlify has been discontinued as I am broke
+Resent Client 5.1
 
 DOWNLOAD FILES IN RELEASES
+
+Resent Client was not made by me, it is from the Resent Client Team, credit goes to them.
